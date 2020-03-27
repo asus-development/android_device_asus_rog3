@@ -1,2 +1,5 @@
 # FOD
 type sysfs_fod, sysfs_type, fs_type;
+
+# Vibrator
+type sysfs_awinic, sysfs_type, fs_type;

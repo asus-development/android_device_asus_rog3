@@ -66,6 +66,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Vibrator
+PRODUCT_PACKAGES += \
+    android.hardware.vibrator@1.2-service.rog3
+
 # Inherit from asus sm8250-common
 $(call inherit-product, device/asus/sm8250-common/common.mk)
 

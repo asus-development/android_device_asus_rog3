@@ -1,1 +1,2 @@
 genfscon sysfs /devices/platform/goodix_ts.0/gesture/aod_enable         u:object_r:sysfs_fod:s0
+genfscon sysfs /devices/platform/soc/990000.i2c/i2c-3/3-005a/leds/vibrator         u:object_r:sysfs_awinic:s0
