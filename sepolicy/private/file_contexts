@@ -1,0 +1,2 @@
+# HALs
+/system/bin/hw/omni\.biometrics\.fingerprint\.inscreen@1\.0-service\.asus_kona	u:object_r:hal_fod_asus_kona_exec:s0
